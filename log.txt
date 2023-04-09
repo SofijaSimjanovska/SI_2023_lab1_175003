@@ -1,0 +1,36 @@
+commit a28169c1a0e8119c55d2f1e51278ffefb319238f
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 17:28:51 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b1b435b60e2f8f6f9332d50a3716bcb5d82b105d
+Merge: f193bbc 57d20b3
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 17:38:46 2023 +0200
+
+    Trying to merge bug2 to master,
+
+commit 57d20b3b6e1a202efb68a1e512a5488670dad907
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 17:23:57 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit f193bbc244469f5f0d31354cd5f7c095a3ced811
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 17:18:01 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 8bb52c5d8a926f13ac2229bf482399bbc94127a5
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 16:23:16 2023 +0200
+
+    Add java class
+
+commit fb0e9725b10cd450ae25c788963927820e3510d2
+Author: SofijaSimjanovska <Sofija.Simjanovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 16:19:16 2023 +0200
+
+    Initial commit
